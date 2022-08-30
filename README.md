@@ -1,8 +1,13 @@
-Línea 1  
-Línea 2
-# Título
-*negrita*  
-_cursiva_
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+Línea 1\
+Línea 2 \# Título *negrita*\
+*cursiva*
 
 **Rosario Ureña Mena**
-![flor](img/C:\Users\pf0953-1\Downloads)
+
+![flor](flor.jpg)
